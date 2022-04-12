@@ -3,5 +3,4 @@ Odin training
 
 Goals: 
     -work with tags
-    -work with commit
-    
+    -work with Git (especially commit)
